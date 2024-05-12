@@ -1,6 +1,3 @@
-
-
-
 <div>
   <img src="https://readme-typing-svg.demolab.com/?lines=Heyy,+I'm+Siddharth+Gupta,+Welcome+to+My+Profile!;I'm+an+aspiring+Web+Developer.;Always+curious+about+exploring+Technology.&font=Fira%20Code&center=true&width=800&height=50&duration=4500&pause=1000" alt="Example Usage - README Typing SVG">
 </div>
@@ -13,7 +10,8 @@
 
 
 ##  Social Info :
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siddg.upta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddharth2602) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sidddh26) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/siddg26) 
+
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=jrjtXDzSMjRdcPgTSVjnJpvGGVPkrJDfdqHBtqKtvPWtSPDZNDcqqGFpDmWBVKwthRssQSnJ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddharth2602)  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sidddh26) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/siddg26) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siddg.upta)
 
 <h2>Coding Platform :</h2>
 
