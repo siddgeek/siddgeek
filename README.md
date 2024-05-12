@@ -1,7 +1,15 @@
 ### Hi there 👋
 
-# 💫 About Me:
-🔭 I’m currently working on full Stack Web Development.<br>👯 I’m looking to collaborate on Projects.<br>🌱 I’m currently learning React JS.<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Heyy,+I'm+Siddharth+Gupta,+Welcome+to+My+Profile!;I'm+an+apiring+Web+Developer.;Always+curious+about+exploring+Technology.;Make+your+readme+stand+out&font=Fira%20Code&center=true&width=800&height=50&duration=4500&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+
+<p align="center">
+🔭 I’m currently working on full Stack Web Development.<br>
+  👯 I’m looking to collaborate on Projects.<br>
+  🌱 I’m currently learning React JS.<br>
+</p>
 
 
 ## 🌐 Socials:
