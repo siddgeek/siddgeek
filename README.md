@@ -31,7 +31,7 @@
 #  GitHub Stats:
 
 <p align="center" >
-  <img width="400" align="left" src="https://github-readme-stats.vercel.app/api?username=siddgeek&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" /> <a href="https://git.io/streak-stats"><img align="right"src="https://github-readme-streak-stats.herokuapp.com/?user=siddgeek&theme=highcontrast&hide_border=false" /></a>
+  <img width="400" align="left" src="https://github-readme-stats.vercel.app/api?username=siddgeek&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" /> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=siddgeek&theme=highcontrast&hide_border=false" /></a>
 </p>
 
 <p align="center">
