@@ -2,7 +2,7 @@
 
 
 <div>
-  <img src="https://readme-typing-svg.demolab.com/?lines=Heyy,+I'm+Siddharth+Gupta,+Welcome+to+My+Profile!;I'm+an+aspiring+Web+Developer.;Always+curious+about+exploring+Technology.;Make+your+readme+stand+out&font=Fira%20Code&center=true&width=800&height=50&duration=4500&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Heyy,+I'm+Siddharth+Gupta,+Welcome+to+My+Profile!;I'm+an+aspiring+Web+Developer.;Always+curious+about+exploring+Technology.&font=Fira%20Code&center=true&width=800&height=50&duration=4500&pause=1000" alt="Example Usage - README Typing SVG">
 </div>
 
 <div style="display:flex">
