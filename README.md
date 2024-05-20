@@ -31,15 +31,12 @@
 <p align="center" >
   <img width="400"  src="https://github-readme-stats.vercel.app/api?username=siddgeek&count_private=true&show_icons=true&theme=react" /> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=siddgeek&theme=highcontrast&hide_border=false" /></a>
 </p>
-
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddgeek&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-
-
 <p align="center">
   <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=siddgeek&bg_color=010304&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false%22" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+<p align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddgeek&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 ### ✍️ Random Dev Quote
