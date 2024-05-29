@@ -3,9 +3,9 @@
 </div>
 
 <div style="display:flex">
-🔭 I’m currently working on full Stack Web Development.<br>
-  👯 I’m looking to collaborate on Projects.<br>
-  🌱 I’m currently learning React JS.<br>
+• I’m currently working on full Stack Web Development.<br>
+• I’m currently learning React JS.<br>
+• I’m looking to collaborate on Projects.<br>
 </div>
 
 
